@@ -8,7 +8,7 @@ Una opción es que los fotones después de pasar por la rendija no salgan dispar
 Aquí es donde entra la Física cuántica a explicar este fenómeno. Hoy en día, la teoría más aceptada por el mundo científico es que el "elemento" u "objeto" que está afectando ese foton y haciendo que este cambie su tracyectoria, es una historia diferente de esta partícula, es decir, una historia diferente de la partícula que pertenece a otro universo; afecta la trayectoria de nuestra partícula original generando una acumulación de puntos uniforme (mejor visto como una línea de puntos ) sobre la pared.
 
 Esta teoría abre la posbilidad de hablar del multiverso, en donde las partículas que están en nuestro universo tiene diferentes historias de ellas misma pertenecientes a otros universos, y que entre ellas pueden afectarse.
-# explicacion
+# simulacion
 ![git cnyt 1](https://github.com/user-attachments/assets/ee52aa9c-dcc5-464f-9879-25a3363f592b)
 ![git cnyt 2](https://github.com/user-attachments/assets/83525ad2-4e2d-450c-a936-d8622acd9dfe)
 ![git cnyt 3](https://github.com/user-attachments/assets/a3d8beea-7cef-4b9c-99bc-b0cde51e7d6d)
